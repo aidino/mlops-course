@@ -1,0 +1,9 @@
+cvlib
+# opencv-python-headless==4.5.3.56
+Pillow
+# tensorflow==2.7.0
+uvicorn
+python-multipart
+fastapi
+nest-asyncio
+jupyterlab
