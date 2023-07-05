@@ -1,7 +1,8 @@
 cvlib
-# opencv-python-headless==4.5.3.56
+opencv-python-headless
 Pillow
-# tensorflow==2.7.0
+tensorflow
+tensorflow-data-validation
 uvicorn
 python-multipart
 fastapi
